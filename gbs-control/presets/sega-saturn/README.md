@@ -13,9 +13,9 @@
 
 Picture Control:
 
-- <b>Move:</b>: Leave it at center of screen/tv
-- <b>Scale:</b>: HScale: 1021, VScale: 455
-- <b>Borders:</b>: Add until all game screen is shown
+- <b>Move:</b> Leave it at center of screen/tv
+- <b>Scale:</b> HScale: 1021, VScale: 455
+- <b>Borders:</b> Add until all game screen is shown
 
 ##### Third Page
 
@@ -29,9 +29,9 @@ Filters:
 
 Picture Control:
 
-- <b>Move:</b>: Leave it at center of screen/tv
-- <b>Scale:</b>: HScale: 1021, VScale: 455
-- <b>Borders:</b>: Add until all game screen is shown
+- <b>Move:</b> Leave it at center of screen/tv
+- <b>Scale:</b> HScale: 1021, VScale: 455
+- <b>Borders:</b> Add until all game screen is shown
 
 ##### Fourth Page
 
